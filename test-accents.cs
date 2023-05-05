@@ -1,0 +1,5 @@
+namespace Iiiiiéiiiii {
+  class Foo {
+  
+  }
+}
